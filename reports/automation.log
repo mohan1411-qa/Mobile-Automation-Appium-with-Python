@@ -1,0 +1,104 @@
+26/09/20 10:45:59 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/EnterValue 
+26/09/20 10:45:59 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: id the locator_value : com.code2lead.kwad:id/EnterValue 
+26/09/20 10:46:01 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : Enter some Value 
+26/09/20 10:46:01 PM Saturday - AppiumDriver - INFO : Element is displayed with locator: Enter some Value locator_type: text
+26/09/20 10:46:01 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Et1 
+26/09/20 10:46:02 PM Saturday - AppiumDriver - INFO : Send data on element with LocatorType: id and the locator_value : com.code2lead.kwad:id/Et1 
+26/09/20 10:46:02 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Btn1 
+26/09/20 10:46:03 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: id the locator_value : com.code2lead.kwad:id/Btn1 
+26/09/20 10:46:13 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Tv1 
+26/09/20 10:46:13 PM Saturday - AppiumDriver - INFO : Text found on element with locator: com.code2lead.kwad:id/Tv1 and locator_type: id
+26/09/20 10:46:33 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/ContactUs 
+26/09/20 10:46:33 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: id the locator_value : com.code2lead.kwad:id/ContactUs 
+26/09/20 10:46:35 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : Contact Us form 
+26/09/20 10:46:35 PM Saturday - AppiumDriver - INFO : Element is displayed with locator: Contact Us form locator_type: text
+26/09/20 10:46:35 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Et2 
+26/09/20 10:46:35 PM Saturday - AppiumDriver - INFO : Send data on element with LocatorType: id and the locator_value : com.code2lead.kwad:id/Et2 
+26/09/20 10:46:36 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Et3 
+26/09/20 10:46:36 PM Saturday - AppiumDriver - INFO : Send data on element with LocatorType: id and the locator_value : com.code2lead.kwad:id/Et3 
+26/09/20 10:46:37 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Et7 
+26/09/20 10:46:37 PM Saturday - AppiumDriver - INFO : Send data on element with LocatorType: id and the locator_value : com.code2lead.kwad:id/Et7 
+26/09/20 10:46:37 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Et6 
+26/09/20 10:46:38 PM Saturday - AppiumDriver - INFO : Send data on element with LocatorType: id and the locator_value : com.code2lead.kwad:id/Et6 
+26/09/20 10:46:38 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Btn2 
+26/09/20 10:46:39 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: id the locator_value : com.code2lead.kwad:id/Btn2 
+26/09/20 10:46:59 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Login 
+26/09/20 10:46:59 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: id the locator_value : com.code2lead.kwad:id/Login 
+26/09/20 10:47:00 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : Login Page 
+26/09/20 10:47:00 PM Saturday - AppiumDriver - INFO : Element is displayed with locator: Login Page locator_type: text
+26/09/20 10:47:00 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Et4 
+26/09/20 10:47:00 PM Saturday - AppiumDriver - INFO : Send data on element with LocatorType: id and the locator_value : com.code2lead.kwad:id/Et4 
+26/09/20 10:47:01 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Et5 
+26/09/20 10:47:01 PM Saturday - AppiumDriver - INFO : Send data on element with LocatorType: id and the locator_value : com.code2lead.kwad:id/Et5 
+26/09/20 10:47:02 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Btn3 
+26/09/20 10:47:02 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: id the locator_value : com.code2lead.kwad:id/Btn3 
+26/09/20 10:47:02 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : Wrong Credentials 
+26/09/20 10:47:03 PM Saturday - AppiumDriver - INFO : Element is displayed with locator: Wrong Credentials locator_type: text
+26/09/20 10:47:03 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Et4 
+26/09/20 10:47:03 PM Saturday - AppiumDriver - INFO : Send data on element with LocatorType: id and the locator_value : com.code2lead.kwad:id/Et4 
+26/09/20 10:47:03 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Et5 
+26/09/20 10:47:04 PM Saturday - AppiumDriver - INFO : Send data on element with LocatorType: id and the locator_value : com.code2lead.kwad:id/Et5 
+26/09/20 10:47:05 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Btn3 
+26/09/20 10:47:05 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: id the locator_value : com.code2lead.kwad:id/Btn3 
+26/09/20 10:47:06 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : Enter Admin 
+26/09/20 10:47:06 PM Saturday - AppiumDriver - INFO : Element is displayed with locator: Enter Admin locator_type: text
+26/09/20 10:47:06 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Edt_admin 
+26/09/20 10:47:06 PM Saturday - AppiumDriver - INFO : Send data on element with LocatorType: id and the locator_value : com.code2lead.kwad:id/Edt_admin 
+26/09/20 10:47:07 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Btn_admin_sub 
+26/09/20 10:47:07 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: id the locator_value : com.code2lead.kwad:id/Btn_admin_sub 
+26/09/20 10:47:07 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/Tv_admin 
+26/09/20 10:47:08 PM Saturday - AppiumDriver - INFO : Element is displayed with locator: com.code2lead.kwad:id/Tv_admin locator_type: id
+26/09/20 10:47:27 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/ScrollView 
+26/09/20 10:47:27 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: id the locator_value : com.code2lead.kwad:id/ScrollView 
+26/09/20 10:47:32 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : ScrollView 
+26/09/20 10:47:32 PM Saturday - AppiumDriver - INFO : Element is displayed with locator: ScrollView locator_type: text
+26/09/20 10:47:32 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : BUTTON1 
+26/09/20 10:47:36 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: text the locator_value : BUTTON1 
+26/09/20 10:47:39 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : NO 
+26/09/20 10:47:42 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: text the locator_value : NO 
+26/09/20 10:47:44 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : ScrollView 
+26/09/20 10:47:44 PM Saturday - AppiumDriver - INFO : Element is displayed with locator: ScrollView locator_type: text
+26/09/20 10:47:44 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : BUTTON1 
+26/09/20 10:47:47 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: text the locator_value : BUTTON1 
+26/09/20 10:47:50 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : YES 
+26/09/20 10:47:51 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: text the locator_value : YES 
+26/09/20 10:47:53 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : Appium Demo 
+26/09/20 10:47:53 PM Saturday - AppiumDriver - INFO : Element is displayed with locator: Appium Demo locator_type: text
+26/09/20 10:47:56 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/ScrollView 
+26/09/20 10:47:56 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: id the locator_value : com.code2lead.kwad:id/ScrollView 
+26/09/20 10:48:04 PM Saturday - AppiumDriver - INFO : Screen scrolled 1
+26/09/20 10:48:04 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : BUTTON15 
+26/09/20 10:48:07 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: text the locator_value : BUTTON15 
+26/09/20 10:48:10 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : YES 
+26/09/20 10:48:13 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: text the locator_value : YES 
+26/09/20 10:48:15 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : Appium Demo 
+26/09/20 10:48:15 PM Saturday - AppiumDriver - INFO : Element is displayed with locator: Appium Demo locator_type: text
+26/09/20 10:48:18 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/ScrollView 
+26/09/20 10:48:18 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: id the locator_value : com.code2lead.kwad:id/ScrollView 
+26/09/20 10:48:26 PM Saturday - AppiumDriver - INFO : Screen scrolled 1
+26/09/20 10:48:26 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : BUTTON16 
+26/09/20 10:48:29 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: text the locator_value : BUTTON16 
+26/09/20 10:48:32 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : YES 
+26/09/20 10:48:34 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: text the locator_value : YES 
+26/09/20 10:48:36 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : Appium Demo 
+26/09/20 10:48:36 PM Saturday - AppiumDriver - INFO : Element is displayed with locator: Appium Demo locator_type: text
+26/09/20 10:48:58 PM Saturday - AppiumDriver - INFO : Screen scrolled 1
+26/09/20 10:48:58 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/drag 
+26/09/20 10:48:58 PM Saturday - AppiumDriver - INFO : Clicked on element with LocatorType: id the locator_value : com.code2lead.kwad:id/drag 
+26/09/20 10:48:59 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: text with the locator_value : KWADemo 
+26/09/20 10:48:59 PM Saturday - AppiumDriver - INFO : Element is displayed with locator: KWADemo locator_type: text
+26/09/20 10:49:00 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/lbl 
+26/09/20 10:49:00 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/lbl 
+26/09/20 10:49:00 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/layout2 
+26/09/20 10:49:10 PM Saturday - AppiumDriver - INFO : Dragged and dropped into <appium.webdriver.webelement.WebElement (session="c569b1c4-9552-4050-90ba-9b1c4003ae13", element="9d090fe3-4cd3-4dd2-9309-8d54fcfad1fd")>
+26/09/20 10:49:15 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/lbl 
+26/09/20 10:49:15 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/btnDrag 
+26/09/20 10:49:15 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/btnDrag 
+26/09/20 10:49:15 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/layout2 
+26/09/20 10:49:22 PM Saturday - AppiumDriver - INFO : Dragged and dropped into <appium.webdriver.webelement.WebElement (session="c569b1c4-9552-4050-90ba-9b1c4003ae13", element="5ea925f9-45bc-4321-b36f-82450c328105")>
+26/09/20 10:49:27 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/btnDrag 
+26/09/20 10:49:27 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/ingvw 
+26/09/20 10:49:27 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/ingvw 
+26/09/20 10:49:27 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/layout3 
+26/09/20 10:49:43 PM Saturday - AppiumDriver - INFO : Dragged and dropped into <appium.webdriver.webelement.WebElement (session="c569b1c4-9552-4050-90ba-9b1c4003ae13", element="d3ebd3fd-381d-4cf0-946a-73656673f301")>
+26/09/20 10:49:48 PM Saturday - AppiumDriver - INFO : Element found with LocatorType: id with the locator_value : com.code2lead.kwad:id/ingvw 
